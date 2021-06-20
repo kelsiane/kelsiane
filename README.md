@@ -2,9 +2,6 @@
 
 ## I'm currently a student at the Federal Institute of Education, Science and Technology of Ceará, studying Computer Science e developer
 
-Follow me: 
-
-[LinkedIn](https://www.linkedin.com/in/kelsianelima/)
 
 
 <!--
